@@ -1,7 +1,7 @@
 # Project Description
 In this project, I work with data from OKCupid, an online dating app. This dataset was provided to me by Codecademy as part of their "Data Science Career Path"
 
-# How to properly/fully view this project
+# How to Properly Run on Your Local Machine
 1. Create or ensure you have a __[Python 3](https://www.python.org/)__ environment containing the package dependencies listed below
 1. Run Report.ipynb using __[Jupyter Notebook](https://jupyter.org/)__ 
 
