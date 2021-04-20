@@ -1,4 +1,4 @@
-# OKCupid_Codecademy_Portfolio
+# Project Description
 In this project, I work with data from OKCupid, an online dating app. This dataset was provided to me by Codecademy as part of their "Data Science Career Path"
 
 # How to properly/fully view this project
