@@ -7,7 +7,7 @@ In this project, I work with data from OKCupid, an online dating app. This datas
 
 # Python Package Dependencies
 * __[Pandas](https://pandas.pydata.org/)__
-* __[Missingno](https://github.com/ResidentMario/missingno)__
+* __[missingno](https://github.com/ResidentMario/missingno)__
 * __[NumPy](https://numpy.org/)__
 * __[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)__
 * __[Plotly](https://plotly.com/python/getting-started/)__
