@@ -3,7 +3,7 @@ In this project, I work with data from __[OKCupid](https://www.okcupid.com/)__, 
 
 # How to Properly Run on Your Local Machine
 1. Create or ensure you have a __[Python 3](https://www.python.org/)__ environment containing the package dependencies listed below
-1. Run Report.ipynb using __[Jupyter Notebook](https://jupyter.org/)__ 
+1. Run Report_stable.ipynb using __[Jupyter Notebook](https://jupyter.org/)__ 
 
 # Python Package Dependencies
 * __[Pandas](https://pandas.pydata.org/)__
