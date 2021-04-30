@@ -1,3 +1,8 @@
 Report-checkpoint.ipynb
 profiles.csv
 .~lock.ML_ready.csv#
+Decision_tree_depths.html
+ml_ready_data.csv
+Random_forest_grid_crossval.html
+static_dt_cv.png
+static_rf_cv.png
