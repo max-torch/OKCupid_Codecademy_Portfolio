@@ -1,7 +1,7 @@
 # Project Description
 In this project, I work with data from __[OKCupid](https://www.okcupid.com/)__, an online dating app. This dataset was provided to me by __[Codecademy](https://www.codecademy.com/)__ as part of their __[Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science)__
 
-A brief, non-data scientist friendly project view is provided as a slide show, Slides.slides.html
+A brief, non-data scientist friendly project view is provided as a slide show, Slides.slides.html The slideshow can be viewed online [here](https://nbviewer.jupyter.org/github/max-torch/OKCupid_Codecademy_Portfolio/blob/main/Slides.slides.html#/)
 # How to Properly Run on Your Local Machine
 1. Create or ensure you have a __[Python 3](https://www.python.org/)__ environment containing the package dependencies listed below
 1. Run Report_stable.ipynb using __[Jupyter Notebook](https://jupyter.org/)__ 
