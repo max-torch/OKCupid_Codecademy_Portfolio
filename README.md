@@ -4,8 +4,8 @@ In this project, I work with data from [OKCupid](https://www.okcupid.com/), an o
 A brief, non-data scientist friendly project view is provided as a slide show, Slides.slides.html The slideshow can be viewed online [here](https://nbviewer.jupyter.org/github/max-torch/OKCupid_Codecademy_Portfolio/blob/main/Slides.slides.html#/)
 # How to Properly Run on Your Local Machine
 1. Create or ensure you have a [Python 3](https://www.python.org/) environment containing the package dependencies listed below
-1. Run Report_stable.ipynb using [Jupyter Notebook](https://jupyter.org/) 
-2. Run ml_revisited.ipynb using [Jupyter Notebook](https://jupyter.org/)
+1. Explore Report_stable.ipynb using [Jupyter Notebook](https://jupyter.org/) 
+2. Explore ml_revisited.ipynb using [Jupyter Notebook](https://jupyter.org/)
 
 # Python Package Dependencies
 * [Pandas](https://pandas.pydata.org/)
